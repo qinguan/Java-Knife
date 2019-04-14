@@ -12,6 +12,9 @@
     <modules>
         <module>knife-parent</module>
         <module>redis-knife</module>
+        <module>netty-knife</module>
+        <module>zookeeper-knife</module>
+        <module>jmh-knife</module>
     </modules>
 
     
