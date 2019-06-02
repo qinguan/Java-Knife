@@ -16,6 +16,7 @@
         <module>zookeeper-knife</module>
         <module>jmh-knife</module>
         <module>simple-note</module>
+        <module>disruptor-knife</module>
     </modules>
 
     
