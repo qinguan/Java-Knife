@@ -18,7 +18,7 @@
         <lombok.version>1.16.20</lombok.version>
         <junit.version>4.12</junit.version>
         <commons-lang3.version>3.7</commons-lang3.version>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jedis.version>2.9.0</jedis.version>
         <fastjson.version>1.2.28</fastjson.version>
         <couchbase-java-client.version>2.5.5</couchbase-java-client.version>
